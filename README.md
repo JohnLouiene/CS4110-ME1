@@ -1,7 +1,9 @@
-echo "# CS4110-ME1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JohnLouiene/CS4110-ME1.git
-git push -u origin main
+  Alan Turing's paper on Computing Machinery and Intelligence is an intriguing piece that explores the possibility of machines being able to think. Turing’s approach is both imaginative and technical, which introduced the famous Turing Test, which proposes a practical way to determine if a machine can imitate human intelligence.
+
+  One of the most fascinating aspects of the paper is the Imitation Game, which today is now called the Turing Test. Turing’s designed the theory to avoid directly answering the question of wether a machine can think and instead focused on observable behavior that feels logical. It allowed for a more objective analysis of wether or not a machine can pass off as a thinking human. This however does not convince me that a machine can think, since early renditions of the tests do not have computers that contain large databases for the machine to choose its responses from. The test only presented how a person could think that a machine could be thinking, even as only a model or simulacrum.
+
+  Turing also addressed several objections that people in his time had about the idea of machine intelligence. An example of this is that he mentioned the Lady Lovelace objection, which states that machines can only do what they are programmed to do and cannot create anything new. However although Turing isn't wrong, machines can also be programmed to "Learn" to create something new as with exammples of today's learning machines.
+  
+  Turing’s paper made me to reconsider what I define as "thinking" and "intelligence." It made my perspective on sentience and sapience broader. Turing's paper was used to develop ways to desing how a thinking entity could be created.
+
+  In conclusion, Alan Turing’s "Computing Machinery and Intelligence" continues to be relevant and thought-provoking. It raises deep questions about the nature of intelligence, creativity, and the future of machines in our world. While Turing didn’t answer all the questions about machine intelligence—indeed, with many of them remain unresolved, he provided a framework for thinking about these issues that is still influential today. Reading this paper has made me more curious about the future of AI and the ethical considerations surrounding it. It also leaves me with a sense of awe at how much foresight Turing had, envisioning a world where machines might one day be indistinguishable from humans in their abilities to think.
